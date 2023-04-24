@@ -1,4 +1,4 @@
-### Olá! Eu sou o João Felipe
+### Hallo, eu sou o João
 
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/johnp1ter)[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/op1ter)
 
