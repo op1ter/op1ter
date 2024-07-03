@@ -1,6 +1,6 @@
-### Hallo, eu sou o João
+### Olá, eu sou o João
 
-[![Linkedin](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/johnp1ter)[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/op1ter)
+[![Linkedin]()]([https://twitch.tv/johnp1ter](https://www.linkedin.com/in/joaofelipe00/))[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/op1ter)
 
 ![João GitHub stats](https://github-readme-stats.vercel.app/api?username=op1ter&show_icons=true&theme=dracula)
 
