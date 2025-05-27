@@ -1,17 +1,31 @@
-### Olá, eu sou o João estudante de programação
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=135&color=5FABEE"/>
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaofelipe00/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/op1ter)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5FABEE&size=35&pause=1100&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Joao+Felipe;I'm+from+Curitiba,+Brasil;Be+Welcome!+=D)](https://git.io/typing-svg)
+<hr>
+<div align="center">    
+    <img width="53%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LucasNevesV1&show_icons=true&theme=holi&hide=issues&rank_icon=github" /> 
+    <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasNevesV1&layout=compact&theme=holi" />
+</div>
 
-![João GitHub stats](https://github-readme-stats.vercel.app/api?username=op1ter&show_icons=true&theme=dracula)
+<br>
 
-### Tecnologias que eu estudo e uso
+<div align="center">  
+<hr>
+    
+### Social Media:
 
-<div style="display: inline_block"><br/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-    <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-    <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-    <img align="center" alt="C++" src="https://img.shields.io/badge/-C++-blue?logo=cplusplus">
-</div><br/>
+<a href="https://www.linkedin.com/in/joaofelipe00/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&" target="_blank"></a> 
+<a href="https://www.instagram.com/op1ter/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+<hr>
+
+### Main Skills:
+
+
+<img align="center" height="50" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img align="center" height="50" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img align="center" height="50" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img align="center" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+<img align="center" height="60" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+          
+<br>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=115&color=5FABEE&section=footer"/>
